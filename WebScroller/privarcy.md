@@ -8,5 +8,5 @@ We will not collect any information from you.
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-By visiting this page and open a new issue: https://github.com/peanutsoda/as-link/issues
+By visiting this page and open a new issue: https://github.com/peanutsoda/apps/issues
 
